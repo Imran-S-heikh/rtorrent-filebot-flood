@@ -1,0 +1,5 @@
+{
+    "scripts": {
+        "build": "sudo docker build -t rtorrent-filebot ."
+    }
+}
